@@ -1,0 +1,6 @@
+{
+  "name": "VMedia Studio",
+  "description": "Screen Recorder, TikTok No-Watermark Downloader, Photo Booth, and 4K Video Editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
